@@ -1,0 +1,64 @@
+{
+  "tests": [
+    {
+      "name": "activity.encapsulation()",
+      "setup": "npm install",
+      "run": "npm run test activity.encapsulation.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 25
+    },
+    {
+      "name": "activity.constructor()",
+      "setup": "",
+      "run": "npm run test activity.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "activity.getDays()",
+      "setup": "",
+      "run": "npm run test activity.getDays.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "activity.getAnnouncement()",
+      "setup": "",
+      "run": "npm run test activity.getAnnouncement.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "activity.addParticipant()",
+      "setup": "",
+      "run": "npm run test activity.addParticipant.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "activity.getNumParticipants()",
+      "setup": "",
+      "run": "npm run test activity.getNumParticipants.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    }
+  ]
+}
